@@ -1,6 +1,3 @@
-// const title = "";
-// console.log(title.toUpperCase());
-
 // // CALLBACK FUNCTIONS
 //
 // // FUNCTION AS VALUE
