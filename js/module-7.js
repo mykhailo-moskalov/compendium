@@ -207,7 +207,6 @@
 //
 //
 // // KEYBOARD EVENTS
-console.log("".toUpperCase());
 //
 // document.addEventListener("keydown", (event) => {
 //   console.log("Keydown: ", event);
