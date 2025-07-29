@@ -110,7 +110,7 @@
 //   `
 // 	<h1>Dynamic Content</h1>
 // 	<p>You can set the content of the lightbox with JS.</p>
-//     <button type="button" data-action="close">Close the modal window</button>
+//     <button type="button">Close the modal window</button>
 // `
 // );
 // const openBtn = document.querySelector('button[data-action="open"]');
