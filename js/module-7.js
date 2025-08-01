@@ -315,4 +315,3 @@
 //   () => (textInput.value = "This input has focus")
 // );
 // textInput.addEventListener("blur", () => (textInput.value = ""));
-//

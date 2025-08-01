@@ -408,4 +408,3 @@
 // Promise.race([p1, p2])
 //   .then((value) => console.log(value))
 //   .catch((error) => console.error(error)); // 2
-//
